@@ -1,0 +1,25 @@
+h1{
+    color: #F4F6F7;
+}
+body{
+    width: 100%;
+    background-image: url("http://d17ol771963kd3.cloudfront.net/assets/bg/lv_back2-797ae694696a321539a916d7f8be58b4.gif");
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h3{
+    color: #F4F6F7;
+    font-size: 35px;
+}
+
+p{
+    color: #F4F6F7;
+    font-size: 50;
+
+}
+
+.page-header{
+    font-size:40px;
+}

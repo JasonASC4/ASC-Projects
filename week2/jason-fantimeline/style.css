@@ -1,0 +1,71 @@
+.main-img{
+    width: 75%;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: darkblue;
+}
+body{
+    background: gray;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+@media (max-width: 350px) {
+    body{
+        width: 100%;    
+        height: 640px;
+        background: black;
+    }
+}
+
+@media (max-width: 375px) {
+    body{
+        width: 100px;
+    }
+}
+
+@media (max-width: 768px) {
+    body{
+        width:100%;
+        background: white;
+    }
+
+    .timeline p{
+        color: darkblue;
+    }
+}
+
+
+@media (max-width: 600px) {
+    body{
+        width: 100%;
+    }
+}
+
+.bio {
+    border-style: solid;
+    border-width: 5px;
+    border-color: darkblue;
+    background: white;
+}
+
+.bio h1{
+    font-size: 45;
+    color: darkblue;
+}
+
+h2{
+    color: darkblue;
+    font-size: 35;
+}
+
+p{
+    color: white;
+    font-size: 20;
+}
+
+.bio p {
+    color: darkblue;
+}
